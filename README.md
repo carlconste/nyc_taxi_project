@@ -1,4 +1,4 @@
-# NYC Taxi Data Project
+# NYC Green Taxi Trip Analysis
 
 **By: Carl Conste**
 
